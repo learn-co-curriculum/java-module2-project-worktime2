@@ -7,13 +7,17 @@
 
 ## Introduction
 
+The instructions for task#2 are contained in the [Module2 Project on Github](https://github.com/learn-co-curriculum/java-module2-project),
+and are repeated here as part of this project worktime lesson.
+
+
 Now that we have learned about arrays of objects and working with multiple classes,
 it is time to apply this new knowledge to our project!
 
 You will continue modifying the module project that you previously forked from
 [Module2 Project on Github](https://github.com/learn-co-curriculum/java-module2-project).
 
-## `ConcertRepository` class
+## Task #2 - `ConcertRepository` class
 
 The `ConcertRepository` class will use an array to
 encapsulate a collection of `Concert` class instances.
